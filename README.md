@@ -1,6 +1,10 @@
-# Turborepo starter
+# README
 
-This is an official pnpm starter turborepo.
+"Axiom" is a noun that refers to a statement or proposition that is considered to be true, based on a set of established principles or assumptions. In other words, an axiom is a self-evident or universally accepted truth that forms the basis for further reasoning and argumentation.
+
+In philosophy and mathematics, an axiom is a fundamental concept that is accepted as true without requiring proof or justification, and is used as a starting point for deriving other truths. The term "axiom" comes from the Greek word "axios," which means "worthy" or "deserving," and reflects the idea that axioms are inherently valuable and important.
+
+In the context of a Design System or UI Library, the name Axiom could imply a foundational, essential, and reliable set of principles and guidelines that form the basis for all design decisions and components.
 
 ## What's inside?
 
